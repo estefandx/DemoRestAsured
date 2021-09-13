@@ -11,7 +11,7 @@ public class Basics {
 
     public static void main(String[] args) {
 
-
+        // probar estatus
         //validate if Add places API is Working as expectd
         //given - all input details
         // when - submit the api resource htttp method
